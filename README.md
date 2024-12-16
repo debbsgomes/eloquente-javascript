@@ -1,4 +1,4 @@
-# JavaScript Eloquente - 2ª edição
+# JavaScript Eloquente - 2ª edição 2
 
 **Uma moderna introdução ao JavaScript, programação e maravilhas digitais.**
 
